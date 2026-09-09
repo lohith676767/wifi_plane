@@ -571,7 +571,7 @@ void setup()
 
   analogWriteRange(1023);
 
-  analogWriteFreq(1000);
+  analogWriteFreq(10000);
 
 
   // ---------------------------------------------------
